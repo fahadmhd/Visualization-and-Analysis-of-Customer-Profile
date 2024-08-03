@@ -3,4 +3,4 @@ The attached Jupyter Notebook has instruction for downloading one's purchase dat
 
 The following are charts are examples generated from example data.
 Data based on aggregates of each category.
-!<>([category](https://github.com/fahadmhd/visualization-of-Customer-Profile/blob/main/Category_info.png?))
+![category](https://github.com/fahadmhd/visualization-of-Customer-Profile/blob/main/Category_info.png?)
